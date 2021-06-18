@@ -1,0 +1,5 @@
+1. animate.css = for animation of word
+2.wow.js and wow.js cdn = for animation only when u will view 
+wow.js cdn = for script src
+wow.js = for js code
+2. typewriter effect using js
